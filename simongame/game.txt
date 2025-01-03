@@ -1,0 +1,6 @@
+1. The rules for playing the game Simon are as follows:
+2. Choose a Simon: One person is chosen to be Simon. 
+3. Give commands: Simon gives commands to the other players. 
+4. Follow commands: Players must only follow commands that begin with the words "Simon says". 
+5. Eliminate players: Players who do not follow commands correctly or who do not follow commands that do not begin with "Simon says" are eliminated from the game. 
+6. Continue playing: Play continues until only one player remains. 
